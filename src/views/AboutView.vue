@@ -5,7 +5,7 @@
     <p class="card">
       <img
       class="picture"
-      src="../../IMG_2607.JPG"
+      src="../../public/IMG_2607.JPG"
       alt="Picture of me" />
 
       Bonjour, je m'appelle Buisson Réda, j'ai 32 ans et je suis un développeur fullstack. 😄 <br />
