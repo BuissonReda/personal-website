@@ -1,0 +1,32 @@
+{
+  "name": "my-site",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:unit": "vitest",
+    "format": "prettier --write src/"
+  },
+  "dependencies": {
+    "vite-plugin-nightwatch": "^0.4.6",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "@vue/eslint-config-prettier": "^10.1.0",
+    "@vue/test-utils": "^2.4.6",
+    "chromedriver": "^131.0.4",
+    "geckodriver": "^5.0.0",
+    "jsdom": "^25.0.1",
+    "prettier": "^3.3.3",
+    "sass-loader": "^16.0.5",
+    "ts-node": "^10.9.2",
+    "vite": "^6.0.5",
+    "vite-plugin-vue-devtools": "^7.6.8",
+    "vitest": "^2.1.8"
+  }
+}
